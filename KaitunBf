@@ -76,3 +76,4 @@ print("[Main] Bắt đầu Tiro Kaitun Modulo v2.2...")
 timeee = os.time()
 local W_angle = 30
 local lastChange = tick()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/stormzn2/projeto/refs/heads/main/projetokaitunbloxf.lua"))()
